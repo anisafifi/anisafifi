@@ -20,6 +20,6 @@ I'm currently working on the **Madrasah Management System**—an app designed to
 ### 💬 Get in touch!
 Feel free to reach out to me:
 - [Email](mailto:anis@afifi.pro)
-- [LinkedIn](https://linkedin.com/in/anisafifi)
+- [Contact](https://anis.cc/vcard)
 
 Thanks for stopping by! 🌟
