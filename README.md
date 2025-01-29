@@ -7,8 +7,8 @@ I'm currently working on the **Madrasah Management System**—an app designed to
 
 ### 🧑‍💻 Tech Stack
 - **Languages:** JavaScript, Python, SQL
-- **Frameworks & Libraries:** React, Node.js, Express, Django
-- **Tools:** Git, Docker, Kubernetes, VSCode
+- **Frameworks & Libraries:** React, Node.js, Nextjs, Mern Stack
+- **Tools:** Git, Docker, Kubernetes, VSCode, DevOps
 
 ### 🌱 I’m currently learning:
 - Cloud Computing (AWS, Azure)
