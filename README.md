@@ -1,6 +1,6 @@
 # Hi there, I'm Anis Afifi! 👋
 
-![Anis Afifi](https://cms.anisafifi.com/assets/870a3788-57bc-4916-ad9d-fe513af5ff16?height=50)
+![Anis Afifi](https://cms.anisafifi.com/assets/870a3788-57bc-4916-ad9d-fe513af5ff16??format=avif)
 
 Welcome to my GitHub profile! I'm a passionate developer working on exciting projects and always looking for new challenges. Here's a bit about me:
 
