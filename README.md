@@ -1,6 +1,6 @@
 # Hi there, I'm Anis Afifi! 👋
 
-![Profile Picture](https://github.com/[your-github-username].png?size=200)
+![Anis Afifi](https://b.anis.cc?size=200)
 
 Welcome to my GitHub profile! I'm a passionate developer working on exciting projects and always looking for new challenges. Here's a bit about me:
 
