@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Hero Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=WebX%20Beyond&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anis%Afifi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
   
   <!-- Avatar with modern styling -->
   <img src="https://github.com/webxbeyond.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 10px 25px rgba(0,0,0,0.2); margin-top: -75px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);" alt="WebX Beyond Avatar" />
