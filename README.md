@@ -202,7 +202,7 @@ const webxBeyond = {
 <tr>
 <td align="center">
 <img src="https://github.com/webxbeyond.png" width="100" style="border-radius: 50%"><br>
-<sub><b>WebX Beyond</b></sub><br>
+<sub><b>Anis Afifi</b></sub><br>
 <sub>Full Stack Developer</sub>
 </td>
 <td align="center" width="300">
