@@ -201,7 +201,7 @@ const webxBeyond = {
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/webxbeyond.png" width="100" style="border-radius: 50%"><br>
+<img src="https://github.com/anisafifi.png" width="100" style="border-radius: 50%"><br>
 <sub><b>Anis Afifi</b></sub><br>
 <sub>Full Stack Developer</sub>
 </td>
