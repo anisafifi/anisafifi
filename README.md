@@ -220,8 +220,6 @@ const webxBeyond = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=anisafifi&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-
 ### 💭 Developer's Quote
 *"First, solve the problem. Then, write the code."* – **John Johnson**
 
