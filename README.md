@@ -188,12 +188,6 @@ const webxBeyond = {
 
 </div>
 
-## 📈 Activity Overview
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anisafifi&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Let's Build Something Amazing Together!
 
 <div align="center">
