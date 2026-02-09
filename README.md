@@ -61,21 +61,21 @@
 
 > First, solve the problem. Then, write the code.
 
-## Current Projects
+## Projects
 
 - **[Postlane](https://github.com/anisafifi/postlane)** - Stateless NestJS SMTP email API with uploads, API key auth, rate limiting, and metrics.
-- **[Probhat Keyboard](https://github.com/anisafifi/probhat-keyboard)** - Probhat keyboard layout for Bangla typing (Unicode-based).
 - **[Open NTP](https://github.com/anisafifi/open-ntp)** - Self-hosted NTP server with a web dashboard and time APIs.
-- **[SMS Kit](https://github.com/anisafifi/sms-kit)** - SMS sender with a unified API and pluggable providers.
 - **[Spotview](https://github.com/anisafifi/spotview)** - Spotify listening insights dashboard built with React and Express.
+- **[Agent Skills](https://github.com/anisafifi/agent-skills)** - Portfolio-style collection of OpenClaw skills.
+- **[SMS Kit](https://github.com/anisafifi/sms-kit)** - SMS sender with a unified API and pluggable providers.
 - **[Cloudflare D1 Database Over Rest Api](https://github.com/anisafifi/cloudflare-d1-database-over-rest-api)** - Expose Cloudflare D1 over REST with fast, secure endpoints.
 - **[Wakesprint](https://github.com/anisafifi/wakesprint)** - Wake-on-LAN via REST API, CLI, and web UI.
-- **[Agent Skills](https://github.com/anisafifi/agent-skills)** - Portfolio-style collection of OpenClaw skills.
 - **[Multilingual Quran](https://github.com/anisafifi/multilingual-quran)** - Quran verses dataset with translations in multiple languages.
 - **[Docker Compose](https://github.com/anisafifi/docker-compose)** - Docker Compose templates and configs for tools and stacks.
 - **[Mac Genesis](https://github.com/anisafifi/mac-genesis)** - Automated macOS setup script for dev and productivity.
 - **[Jarvis AgentPy](https://github.com/anisafifi/jarvis-agent-py)** - No description yet.
 - **[OTP Pass Kit](https://github.com/anisafifi/otp-pass-kit)** - Generate secure OTPs and passwords.
+- **[Probhat Keyboard](https://github.com/anisafifi/probhat-keyboard)** - Probhat keyboard layout for Bangla typing (Unicode-based).
 
 
 ## GitHub Activity
