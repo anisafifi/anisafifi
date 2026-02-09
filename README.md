@@ -90,7 +90,7 @@
 ## Media Highlights
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
+<!-- - [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
 - [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
 - [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
 - [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
@@ -99,12 +99,12 @@
 - **[Inside Apple's AI Fail](https://www.podcast.de/episode/689639265/inside-apples-ai-fail-mit-peter-steinberger)** - German podcast discussing Apple Intelligence
 - **[AI Native Development Interview](https://www.youtube.com/watch?v=fu7th5HiADo)** - Deep dive into vibe coding and the future of software development
 - **[Arena Live Build – Full Session](https://www.youtube.com/watch?v=z2IDQbNOS5s)** - Live coding session showing the full Arena build process
-- **[Claude 3 Sonnet 'Funeral' in San Francisco](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)** - WIRED article featuring the memorial for Claude 3.5 Sonnet ([no paywall](https://gist.github.com/steipete/8344756e51df68406eb5302d4c19d6ea))
+- **[Claude 3 Sonnet 'Funeral' in San Francisco](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)** - WIRED article featuring the memorial for Claude 3.5 Sonnet ([no paywall](https://gist.github.com/steipete/8344756e51df68406eb5302d4c19d6ea)) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
-You will find all the connection i have in biolink
 [![Biolink](https://img.shields.io/badge/Biolink-0A66C2?style=flat&logo=linktree&logoColor=white)](https://anisafifi.com/biolink)
+[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=flat&logo=maildotru&logoColor=white)](https://anisafifi.com/contact/)
 
 ---
 
