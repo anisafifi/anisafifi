@@ -82,7 +82,7 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/anisafifi)
 
-## Latest YouTube Videos
+## Latest Videos from Xerobi Lab
 
 [Subscribe for more](https://www.youtube.com/c/xerobilab?sub_confirmation=1)
 
