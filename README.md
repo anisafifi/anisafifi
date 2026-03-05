@@ -82,6 +82,14 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/anisafifi)
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
+[Subscribe for more](https://www.youtube.com/c/xerobilab?sub_confirmation=1)
+
 ## What I'm Doing
 
 - **Building for the next wave** - Creating tools that make agentic engineering faster and more accessible
