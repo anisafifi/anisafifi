@@ -94,7 +94,7 @@
 ## What I'm Doing
 
 - **Building for the next wave** - Creating tools that make agentic engineering faster and more accessible
-- **Writing what I learn** - Sharing notes and experiments on [anisafifi.com](https://anisafifi.com)
+- **Writing what I learn** - Sharing notes and experiments on [anisafifi.com](https://anisafifi.com) and [xerobi.com](https://xerobi.com)
 
 ## Media Highlights
 
